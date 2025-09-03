@@ -1,0 +1,3 @@
+[submodule "git/git/terraform-the-alta3-way"]
+	path = git/git/terraform-the-alta3-way
+	url = https://github.com/alta3/terraform-the-alta3-way
