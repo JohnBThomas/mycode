@@ -1,0 +1,10 @@
+[planetexpress]
+larrythecableguy user="larrythecableguy" ansible_host=10.10.2.6
+fry user="fry" ansible_host=10.10.2.4
+moe user="moe" ansible_host=10.10.2.5
+
+[planetexpress:vars]
+ansible_user = "student"
+ansible_ssh_pass = "alta3"
+ansible_become_pass = "alta3"
+
